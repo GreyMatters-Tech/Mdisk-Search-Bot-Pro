@@ -25,6 +25,14 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 </p>
 </details>
 
+<details>
+   <summary><b>Deploy to Koyen</b></summary>
+<br/>
+
+<p align="left">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/Link-Search-Bot-Pro&branch=main&name=linksearchbot)
+
+
 #Credits
 
 - Special Thanks to Original Developer @Royalkrrishna.
