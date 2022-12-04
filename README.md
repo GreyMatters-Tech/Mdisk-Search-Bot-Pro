@@ -24,3 +24,8 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
   </a>
 </p>
 </details>
+
+#Credits
+
+- Special Thanks to Original Developer @Royalkrrishna.
+- And Thanks to GreyMattersBot for convincing Royalkrrishna to make Repo Public.
