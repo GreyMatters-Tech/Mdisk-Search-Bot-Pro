@@ -28,12 +28,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
    <summary><b>Deploy to Koyeb</b></summary>
 <br/>
 
-<p align="left">
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/Link-Search-Bot-Pro&branch=main&name=linksearchbot)
-      <img height="30px" src="https://www.koyeb.com/static/images/deploy/button.svg">
-  </a>
-</p>
-</details>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/Link-Search-Bot-Pro&branch=main&name=urlshortautofilterbot)
 
 #Credits
 
