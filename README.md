@@ -29,13 +29,14 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 <br/>
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/Link-Search-Bot-Pro&branch=main&name=urlshortautofilterbot)
+</details>
 
-#Credits
+# Credits
 
 - Special Thanks to Original Developer @Royalkrrishna.
 - And Thanks to GreyMattersBot for convincing Royalkrrishna to make Repo Public.
 
-#Subscribe 
+# Subscribe 
 
 1) https://youtube.com/@greymattersyt
 
