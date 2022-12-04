@@ -18,20 +18,22 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 <br/>
 
 <p align="left">
-<a href="https://railway.app/deploy?template=https://github.com/RoyalKrrishna/MdiskWalaBot"
-">
+<a href="https://railway.app/deploy?template=https://github.com/RoyalKrrishna/MdiskWalaBot"">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
 </p>
 </details>
 
 <details>
-   <summary><b>Deploy to Koyen</b></summary>
+   <summary><b>Deploy to Koyeb</b></summary>
 <br/>
 
 <p align="left">
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/Link-Search-Bot-Pro&branch=main&name=linksearchbot)
-
+      <img height="30px" src="https://www.koyeb.com/static/images/deploy/button.svg">
+  </a>
+</p>
+</details>
 
 #Credits
 
