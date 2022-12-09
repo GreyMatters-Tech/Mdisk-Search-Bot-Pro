@@ -3,7 +3,7 @@
 We have to use Bot for Inline Search & Userbot for Searching in Channels. So both Bot & Userbot will work together.
 
 ## Installation
-
+## [Tutorial Video](https://youtu.be/e0h_cpB6mSM)
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
