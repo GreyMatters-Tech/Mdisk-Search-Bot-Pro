@@ -9,7 +9,7 @@ tmdbv3api
 telethon
 telegraph[aio]
 markdown
-Flask==2.2.2
+flask>=2.2.5
 gunicorn==20.1.0
 aiohttp==3.8.2
 pymongo[srv]==3.12.3
